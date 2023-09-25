@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+#press{
+    margin-top:1rem;
+    background-color: lightblue;
+    color:gray;
+    font-size: larger;
+    font-weight: 600;
+    padding:2rem 3rem;
+    border: none;
+}
+#down{
+    width:22rem;
+    height:5rem;
+    padding:1rem;
+    color:white;
+    background-color: blueviolet;
+    font-weight:600;
+    font-size:large;
+    position:fixed;
+    bottom:10rem;
+    text-align: center;
+    display: block;
+    margin-bottom: 7rem;
+   
+}
+#up{
+    width:22rem;
+    height:5rem;
+    padding:1rem;
+    color:white;
+    background-color: blueviolet;
+    font-weight:600;
+    font-size:large;
+    position:fixed;
+    bottom:10rem;
+    text-align: center;
+    display: block;
+   
+}
